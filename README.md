@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="AppleMusicRP" src="https://github.com/user-attachments/assets/28d2086e-ba4e-49a1-8e58-5e738e6ea2a7" />
+<img width="100" height="100" alt="AppleMusicRP" src="https://github.com/user-attachments/assets/28d2086e-ba4e-49a1-8e58-5e738e6ea2a7" />
 
 # Apple Music Rich Presence for Discord
 
