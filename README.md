@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="AppleMusicRP" src="https://github.com/user-attachments/assets/28d2086e-ba4e-49a1-8e58-5e738e6ea2a7" />
 # Apple Music Rich Presence for Discord
 
 This project enables rich presence for Apple Music on Discord, allowing users to share their current listening activity with friends on the platform. Currently for macOS only, it uses AppleScript to fetch the currently playing track from Apple Music and updates the Discord Rich Presence accordingly.
