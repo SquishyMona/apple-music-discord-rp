@@ -26,4 +26,4 @@ This project enables rich presence for Apple Music on Discord, allowing users to
 - Maybe potentially possibly support for Windows and Linux (maybe).
 - GUI for...something idk.
 
-enjoy my little app!!:blue_heart:
+enjoy my little app!! :blue_heart:
