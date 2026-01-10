@@ -4,6 +4,8 @@
 
 This project enables rich presence for Apple Music on Discord, allowing users to share their current listening activity with friends on the platform. Currently for macOS only, it uses AppleScript to fetch the currently playing track from Apple Music and updates the Discord Rich Presence accordingly.
 
+### [Download in releases](https://github.com/SquishyMona/apple-music-discord-rp/releases)
+
 ## What It Does
 
 - Fetches the currently playing track from Apple Music using AppleScript and sends the following to Discord:
