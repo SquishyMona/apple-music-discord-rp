@@ -41,6 +41,7 @@ impl DiscordClient {
                     activity::Assets::new()
                         .large_image(public_url)
                         .large_text(album)
+                        .small_image("pause")
                 )
                 .status_display_type(activity::StatusDisplayType::Details);
 

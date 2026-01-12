@@ -25,6 +25,7 @@ This project enables rich presence for Apple Music on Discord, allowing users to
 
 ## Planned Features
 
+- If paused for more then a set amount of time, clear the rich presence.
 - Add link to track on Apple Music (if that's even possible).
 - Maybe potentially possibly support for Windows and Linux (maybe).
 - GUI for...something idk.
