@@ -85,7 +85,7 @@ fn main() {
                             let duration: f64 = parts[4].parse().unwrap_or(0.0);
                             let position: f64 = parts[5].parse().unwrap_or(0.0);
                             let art_path = parts[6];
-                            let public_url = match upload_album_art(art_path, "https://apple-music-artwork.squishyapplemusicrpc.workers.dev/upload") {
+                            let public_url = match upload_album_art(art_path, "https://amdrp.squishymona.com/upload") {
                                 Ok(result) => result,
                                 Err(e) => {
                                     println!("ERROR:::Failed to upload album art: {}", e);
