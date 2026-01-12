@@ -2,6 +2,9 @@ use std::process::Command;
 
 pub fn get_track_info() -> Option<String> {
     let script = r#"
+    if application "Music" is not running then
+        return "NO_TRACK"
+    end if
     tell application "Music"
         if not (exists current track) then
             return "NO_TRACK"
