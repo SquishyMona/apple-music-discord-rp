@@ -13,8 +13,8 @@ This project enables rich presence for Apple Music on Discord, allowing users to
   - Artist name
   - Album name
   - Album artwork (if available)
-- Updates Discord Rich Presence in real-time as the track changes.
-- On pause, the rich presence will deactivate until playback resumes.
+- Updates Discord Rich Presence in real-time as the track changes, is paused, fast-forwarded or rewinded.
+- Rich presence will clear upon quitting the Music app
 - Adds a menu bar icon to quit the app
 
 ## What It Doesn't
@@ -25,7 +25,6 @@ This project enables rich presence for Apple Music on Discord, allowing users to
 
 ## Planned Features
 
-- Add paused state instead of just removing everything when music is paused.
 - Add link to track on Apple Music (if that's even possible).
 - Maybe potentially possibly support for Windows and Linux (maybe).
 - GUI for...something idk.
